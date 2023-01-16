@@ -30,9 +30,9 @@
 
 ## 2. Links relevantes
 
-- <a name="deploy-da-aplicação" href ="#" target="_blank">Link da aplicação</a>
+- <a name="deploy-da-aplicação" href ="https://django-animes-b647.onrender.com/api/" target="_blank">Link da aplicação</a>
 
-- <a name="documentação-api" href="#" target="_blank">Documentação API</a>
+- <a name="documentação-api" href="https://django-animes-b647.onrender.com/api/docs/swagger-ui/" target="_blank">Documentação API</a>
 
  <h3> Diagrama ER da API definindo bem as relações entre as tabelas do banco de dados. </h3>
 
