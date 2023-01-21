@@ -36,7 +36,7 @@
 
  <h3> Diagrama ER da API definindo bem as relações entre as tabelas do banco de dados. </h3>
 
-<img height="700" align="center" src="https://ibb.co/7Cg2PWy"></img>
+<img height="700" align="center" src="https://i.ibb.co/sR5ynw3/anime-project.png"></img>
 
 <a align="left" name="techs"></a>
 
