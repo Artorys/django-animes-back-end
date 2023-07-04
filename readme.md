@@ -17,8 +17,6 @@
 
 - O objetivo da nossa aplicação é criar um streaming de animes com sistema de gerenciamento de perfis. A principal motivação é oferecer aos fãs de animes uma plataforma de reprodução de alto desempenho e de fácil acesso para assistir aos seus animes favoritos.Sabe-se que muitas vezes os fãs de animes enfrentam dificuldades para encontrar todos os episódios de uma determinada série em um único lugar, e por isso criamos a nossa API para resolver esse problema.
 
-- Atualmente, muitos streaming ou sites de  animes apresentam problemas de lentidão ou até mesmo falhas na reprodução dos vídeos, sem contar as inúmeras propagandas que acabam com a diversão. Para garantir uma experiência de reprodução suave e sem interrupções, estamos armazenando os links dos episódios em servidores do AWS. 
-
 - A aplicação contará com uma opção gratuita com anúncios breves, dentro do próprio vídeo, que poderá ser pulado após 5 segundos assistido. E uma opção premium, de faço acesso para todos, o usuário premium terá vários benefícios, como editar livremente o perfil, com customizações únicas, como ganhar “achievements” (conquistas) por assistir ou terminar um determinado anime.   
 
 - A aplicação  contará com tipos de usuarios diferentes, sendo eles FREE, BRONZE, SILVER, GOLD, cada um com seus beneficíos específicos, sendo eles numero de profiles permitidos, conquistas específicas, ícones, fazer comentários, entre outros.
